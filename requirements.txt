@@ -6,3 +6,4 @@ requests
 unstructured
 markdown
 qdrant-client
+chromadb
