@@ -1,0 +1,8 @@
+openai
+langchain
+tiktoken
+python-dotenv
+requests
+unstructured
+markdown
+qdrant-client
